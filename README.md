@@ -14,4 +14,6 @@ tcp://0.tcp.ap.ngrok.io:16448 -> localhost:4444
 tcp://0.tcp.ap.ngrok.io:16448 -> คือสิ่งที่เราจะใช้ให้ payload เชื่อมต่อกลับมา
 localhost:4444 -> คือสิ่งที่ทำการเชื่อมต่อกับเป้าหมาย
 ```
+
 ## ตัวอย่างของ Metasploit 
+![Screenshot 2023-09-20 224605](https://github.com/Thampakon/Fix-Learning-CyberSecurity/assets/119696243/91e0d6fc-2490-4639-9a9e-28fbf4024818)
